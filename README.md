@@ -1,2 +1,2 @@
-# MentorBot
-Telegram bot brain mentor
+# Snail's Gotcha
+Works on pygame
